@@ -4,8 +4,8 @@ I'm a full-stack JavaScript developer interested in Open Source, DevOps, CI/CD, 
 
 - 👨‍💻 Software Developer
 - ☕ Loves coffee
-- 🌱 I’m currently learning: NextJS, Google Cloud, GraphQL
-- 💬 Ask me about: CI/CD, NodeJS, APIs, Ansible
+- 🌱 I’m currently learning: NextJS, Google Cloud
+- 💬 Ask me about: CI/CD, NodeJS, APIs, GraphQL
 - 📫 How to reach me: On twitter [@rohit_gohri](https://twitter.com/rohit_gohri)
 
 ### Links
