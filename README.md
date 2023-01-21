@@ -6,7 +6,7 @@ I'm a full-stack JavaScript developer interested in Open Source, DevOps, CI/CD, 
 - ☕ Loves coffee
 - 🌱 I’m currently learning: NextJS, Google Cloud
 - 💬 Ask me about: CI/CD, NodeJS, APIs, GraphQL
-- 📫 How to reach me: On twitter [@rohit_gohri](https://twitter.com/rohit_gohri)
+- 📫 How to reach me: On twitter [@rohit_gohri](https://twitter.com/rohit_gohri) or <a rel="me" href="https://hachyderm.io/@rohit_gohri">Mastodon</a>
 
 ### Links
 
