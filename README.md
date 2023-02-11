@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a full-stack JavaScript developer interested in Open Source, DevOps, CI/CD, developer productivity, doing things "right", and writing things down.
+I'm a full-stack developer interested in Open Source, Typescript, CI/CD, developer productivity, doing things "right", and writing things down.
 
 - 👨‍💻 Software Developer
 - ☕ Loves coffee
-- 🌱 I’m currently learning: NextJS, Google Cloud
+- 🌱 I’m currently learning: Kubernetes, Google Cloud
 - 💬 Ask me about: CI/CD, NodeJS, APIs, GraphQL
 - 📫 How to reach me: On twitter [@rohit_gohri](https://twitter.com/rohit_gohri) or <a rel="me" href="https://hachyderm.io/@rohit_gohri">Mastodon</a>
 
