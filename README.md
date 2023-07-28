@@ -6,7 +6,7 @@ I'm a full-stack developer interested in Open Source, Typescript, CI/CD, develop
 - ☕ Loves coffee
 - 🌱 I’m currently learning: Kubernetes, Google Cloud
 - 💬 Ask me about: CI/CD, NodeJS, APIs, GraphQL
-- 📫 How to reach me: On twitter [@rohit_gohri](https://twitter.com/rohit_gohri) or <a rel="me" href="https://hachyderm.io/@rohit_gohri">Mastodon</a>
+<!-- - 📫 How to reach me: On twitter [@rohit_gohri](https://twitter.com/rohit_gohri) or <a rel="me" href="https://hachyderm.io/@rohit_gohri">Mastodon</a> -->
 
 ### Links
 
